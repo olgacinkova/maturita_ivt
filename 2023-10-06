@@ -12,23 +12,35 @@ ipv6 má 16 B, 128 b
 II. HARDWARE
  vymezení pojmů (HW, komponenty, periferie, ...)
  historie počítačů
- Von Neumannova architektura
- druhy počítačů (PC, All-In-One, notebook, netbook, ultrabook, tablet PC, iPad, PDA,
+Von Neumannova architektura - společná paměť, procesor (ALU jednotka = aritmeticko-logická jednotka, řadič)
+harwardská architektura - data odděleně
+druhy počítačů (PC, All-In-One, notebook, netbook, ultrabook, tablet PC, iPad, PDA,
 MDA, Smartphone, superpočítače)
  komponenty - vymezení pojmu
  základní deska
- komponenty umístěné na desce (CPU, BIOS, CHIPSET, baterie CMOS, RAM, karty)
- komponenty propojené se základní deskou kabely (HDD, mechaniky, zdroj)
- sloty (ISA, PCI, AGP, socket, DIMM, SO-DIMM)
- porty (ethernet, VGA, LPT, serial, USB, game, speakers, LineIn, microphone, PS/2)
- rozhraní SATA, PATA
+komponenty umístěné na desce 
+    CPU = 
+    BIOS =
+    CHIPSET = čipová sada, zajišťuje komunikaci mezi komponenty, 64 nebo 32 bitů, north bridge a south bridge (jeden komnikuje víc s procesorem, druhý víc s pamětí)
+    baterie CMOS =
+    RAM =
+    karty =
+komponenty propojené se základní deskou kabely (HDD, mechaniky, zdroj)
+sloty (ISA, PCI, AGP, socket, DIMM, SO-DIMM)
+porty (ethernet, VGA, LPT, serial, USB, game, speakers, LineIn, microphone, PS/2)
+rozhraní SATA, PATA
 III. PERIFERIE
- monitory (CRT, LCD, plazmové, OLED, SED, ...) - základní parametry, vlastnosti,
+monitory (CRT, LCD, plazmové, OLED, SED, ...) - základní parametry, vlastnosti,
 princip fungování a srovnání CRT a LCD monitorů
- klávesnice (PS/2, USB, bezdrátové) – vlastnosti a princip fungování
- myši (optické a kuličkové) – vlastnosti a princip fungování
- tiskárny (jehličkové, inkoustové, laserové) – vlastnosti, princip fungování a srovnání
- další periferie (externí HDD, flashdisk, TV Tuner, WiFi klíčenka, webkamera, ...)
+LCD monitor - 2 filtry, prochází/neprochází světlo, krystaly, zadní osvětlení
+OLED - na každý pixel jedna LEDka, O jako organic, lepší kontrast než LCD
+klávesnice (PS/2, USB, bezdrátové) – vlastnosti a princip fungování
+myši (optické a kuličkové) – vlastnosti a princip fungování
+tiskárny (jehličkové, inkoustové, laserové) – vlastnosti, princip fungování a srovnání
+laserová tiskárna: selenový válec mění se jeho magnetická indukce pomocí laseru, pak se na válec dá toner a přilepí se pouze na magnetická místa, kde se to obarví
+CMYK = cyan, magenta, yellow, černá :D, barevný model tiskáren
+RGB = red, green, blue
+další periferie (externí HDD, flashdisk, TV Tuner, WiFi klíčenka, webkamera, ...)
 IV. OPERAČNÍ SYSTÉMY
  funkce OS (multitasking, systém souborů, PlugAndPlay, ...)
  rozhraní
