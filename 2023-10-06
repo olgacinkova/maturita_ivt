@@ -1,0 +1,163 @@
+I. ZÁKLADY IVT
+převádění soustav
+hexadecimální soustava: IP adresy (ipv6)
+hardware, software, firmware (BIOS)
+kódování textu:
+	ASCII - 1 znak = 8b = 1B 
+ergonomie pracoviště
+ochrana zdraví a bezpečnost při práci
+ipv6 má 16 B, 128 b
+
+
+II. HARDWARE
+ vymezení pojmů (HW, komponenty, periferie, ...)
+ historie počítačů
+ Von Neumannova architektura
+ druhy počítačů (PC, All-In-One, notebook, netbook, ultrabook, tablet PC, iPad, PDA,
+MDA, Smartphone, superpočítače)
+ komponenty - vymezení pojmu
+ základní deska
+ komponenty umístěné na desce (CPU, BIOS, CHIPSET, baterie CMOS, RAM, karty)
+ komponenty propojené se základní deskou kabely (HDD, mechaniky, zdroj)
+ sloty (ISA, PCI, AGP, socket, DIMM, SO-DIMM)
+ porty (ethernet, VGA, LPT, serial, USB, game, speakers, LineIn, microphone, PS/2)
+ rozhraní SATA, PATA
+III. PERIFERIE
+ monitory (CRT, LCD, plazmové, OLED, SED, ...) - základní parametry, vlastnosti,
+princip fungování a srovnání CRT a LCD monitorů
+ klávesnice (PS/2, USB, bezdrátové) – vlastnosti a princip fungování
+ myši (optické a kuličkové) – vlastnosti a princip fungování
+ tiskárny (jehličkové, inkoustové, laserové) – vlastnosti, princip fungování a srovnání
+ další periferie (externí HDD, flashdisk, TV Tuner, WiFi klíčenka, webkamera, ...)
+IV. OPERAČNÍ SYSTÉMY
+ funkce OS (multitasking, systém souborů, PlugAndPlay, ...)
+ rozhraní
+ nejznámější OS (porovnání, rozdíly, výhody a nevýhody)
+ OS jako správce hardwaru: střídání procesů, přidělování paměti
+ organizace disku, diskové oblasti, raid
+ souborová struktura (FAT, NTFS, ext, HFS, ...)
+ klávesové zkratky
+V. LICENCE
+ otevřený a uzavřený zdrojový kód
+ typy (freeware, open source, demoverze, shareware, GNU/GPL, komerční, CC, ...)
+ plagiátorství, duševní vlastnictví
+ počítačové pirátství
+VI. INTERNET
+ historie (arpanet, vojenské účely, akademická půda, ...)
+ princip fungování, základy tcp/ip
+ adresy v internetu (IP a doménová adresa)
+ protokoly a jejich porty (http, ftp, smtp, pop, imap, ...)
+ pojmy: DNS, DHCP, NAT
+VII. WWW A DALŠÍ SLUŽBY
+ základní služby (www, ftp, mail, ssh, ...)
+ princip služby www
+ protokol http a https
+ princip vyhledávače, vyhledávání a zdroje informací
+ důvěryhodné zdroje
+
+2
+
+VIII. KOMUNIKACE
+ online a offline komunikace
+ e-mail: webmail a klient, používané protokoly
+ základní prvky zprávy (from, to, subject, date, cc, bcc, ...), přílohy
+ vymezení pojmů (hoax, phishing, spam, ...)
+ netiketa
+ sociální sítě
+ mailová konference
+ VoIP
+ vzdálený přístup
+ výměnné sítě
+IX. TEXTOVÝ EDITOR
+ zástupci
+ formáty souborů
+ typografické konvence
+ možnosti textového editoru
+X. TABULKOVÝ PROCESOR
+ zástupci
+ formáty souborů
+ možnosti tabulkového procesoru
+XI. POČÍTAČOVÁ GRAFIKA
+ rastrová a vektorová grafika
+ barevné modely
+ formáty souborů
+ zástupci editorů
+ vymezení pojmů (gamma, jas, kontrast, ...)
+XII. PREZENTAČNÍ MANAŽER
+ zástupci
+ formáty souborů
+ možnosti prezentačního manažera
+ pravidla a pokyny pro správně vytvořenou prezentaci
+XIII. TVORBA WEBOVÝCH STRÁNEK
+ HTML - základní struktura webové stránky
+ HTML - základní tagy
+ CSS
+ možnosti tvorby webu (WYSIWYG, šablony, CMS, ...)
+XIV. ZVUK A VIDEO
+ vymezení pojmů (kontejner, kodek, formát, ...)
+ formáty zvuku a videa
+ převody mezi formáty
+ zástupci editorů pro úpravu zvuku a videa
+XV. MALWARE
+ vymezení pojmu
+ druhy (viry, trojské koně, červi, spyware, adware, ...), zástupci
+ metody šíření
+ principy obrany
+XVI. POČÍTAČOVÉ SÍTĚ
+ topologie (RING, BUS, STAR, TREE)
+ rozdělení dle velikosti (PAN, LAN, MAN, WAN)
+ architektura (P2P, klient-server)
+ WiFi, GSM, GPS
+ Síťové prvky: router, switch, hub, repeater, modem, firewall, NIC
+ přenosová média (metalické a optické kabely, radiové bezdrátové spoje, bezdrátové
+optické spoje, ultrazvukové zdroje, ...)
+
+3
+
+XVII. ALGORITMIZACE
+ vymezení pojmů (program, algoritmus, algoritmizace, algoritmický jazyk, ...)
+ vlastnosti algoritmu
+ etapy řešení problému (specifikace, analýza, sestavení, kódování, ladění)
+ formulace
+XVIII. PROGRAMOVÁNÍ
+ vymezení pojmů, základní paradigmata
+ programovací jazyk, syntaxe, proměnná, ...
+ kompilace a interpretace
+ zástupci programovacích jazyků
+ správnost a složitost
+XIX. DATA
+ zobrazení dat v počítači
+ datové typy, přetypování
+ složené typy
+ dynamické datové struktury
+XX. ŘÍDÍCÍ STRUKTURY PROGRAMU
+ podmíněný příkaz
+ cykly
+ rekurze
+XXI. OBJEKTOVÉ PROGRAMOVÁNÍ
+ třídy a instance
+ vlastnosti OOP (zapouzdření, dědičnost, polymorfismus)
+XXII. TŘÍDĚNÍ
+ vnitřní a vnější třídění
+ jednoduché třídící algoritmy
+ pokročilé třídící algoritmy
+XXIII. GRAFY
+ definice a vlastnosti grafů
+ průchod do hloubky a do šířky
+ základní grafové algoritmy
+XXIV. MODELOVÁNÍ
+ spojitá simulace, diferenční rovnice, simulační krok
+ diskrétní simulace, kalendář událostí
+XXV. DATABÁZE
+ vymezení pojmů (databáze, DBMS, SQL, DDL, DML, tabulka, klíče, indexy,
+oprávnění, ...)
+ MySQL
+ DDL - phpMyAdmin
+ DML - základy SQL (INSERT, UPDATE, DELETE, SELECT, ...)
+ Relace
+
+V Praze 19. září 2016
+
+Lukáš Bernard
+	
+
