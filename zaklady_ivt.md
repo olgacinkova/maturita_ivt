@@ -5,13 +5,29 @@ I. ZÁKLADY IVT
           - základ 2
           - hodnoty: 0, 1
           - index: 2 nebo B
-      - oktálová (osmičková): 
-      - dekadická
+          - použití: digitální elektronické obvody (interně ve všech  počítačích)
+      - oktálová (osmičková):
+          - základ 8
+          - hodnoty: 0, 1, 2, 3, 4, 5, 6, 7,
+          - index: 8 nebo O
+          - použití: OS UNIXového typu
+      - dekadická (desítková)
+          - základ 10
+          - hodnoty: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+          - index: 10 nebo D
+          - použití: běžný život, věda a technika
       - hexadecimální: IP adresy (ipv6)
+          - základ 16
+          - hodnoty: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
+          - index: 16 nebo H
+          - použití: kódování textu (např. mezera = %20), HTML a CSS barvy
   - základní pojmy
-      - HW
-      - SW
-      - FW
+      - HW: hardware
+          - hmotné
+          - základní deska, procesor...
+          - periferie: hardware připojitelný skříni (monitor, myš, tiskárna...)
+      - SW: software
+      - FW: firmware
   - ergonomie pracoviště
   - ochrana zdraví a bezpečnost při práci
 
