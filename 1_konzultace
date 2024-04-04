@@ -42,16 +42,19 @@ CMYK = cyan, magenta, yellow, černá :D, barevný model tiskáren
 RGB = red, green, blue
 další periferie (externí HDD, flashdisk, TV Tuner, WiFi klíčenka, webkamera, ...)
 IV. OPERAČNÍ SYSTÉMY
- funkce OS (multitasking, systém souborů, PlugAndPlay, ...)
- rozhraní
- nejznámější OS (porovnání, rozdíly, výhody a nevýhody)
- OS jako správce hardwaru: střídání procesů, přidělování paměti
- organizace disku, diskové oblasti, raid
- souborová struktura (FAT, NTFS, ext, HFS, ...)
- klávesové zkratky
+funkce OS
+    multitasking = více věcí najednou, např. multithreading (každé vlákno procesu se stará o něco jiného )
+    systém souborů
+    PlugAndPlay
+rozhraní
+nejznámější OS (porovnání, rozdíly, výhody a nevýhody)
+OS jako správce hardwaru: střídání procesů, přidělování paměti
+organizace disku, diskové oblasti, raid
+souborová struktura (FAT, NTFS, ext, HFS, ...)
+klávesové zkratky
 V. LICENCE
  otevřený a uzavřený zdrojový kód
- typy (freeware, open source, demoverze, shareware, GNU/GPL, komerční, CC, ...)
+ typy (freeware, open source, demoverze, shareware, GNU/GPL, komerční, CC = volně použitelné)
  plagiátorství, duševní vlastnictví
  počítačové pirátství
 VI. INTERNET
